@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of a letter vvritten to a private friend, to give him satisfaction on some things tovching the Lord Say.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80504</idno>
+            <idno type="STC">Wing C6173</idno>
+            <idno type="STC">Thomason E72_5</idno>
+            <idno type="STC">ESTC R23237</idno>
+            <idno type="EEBO-CITATION">99871940</idno>
+            <idno type="PROQUEST">99871940</idno>
+            <idno type="VID">124358</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124358)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E72[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of a letter vvritten to a private friend, to give him satisfaction on some things tovching the Lord Say.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.B. for I.O. and are to be sold by I.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octo: 24th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Saye and Sele, William Fiennes, --  Viscount, 1582-1662.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124358:1"/>
+            <pb facs="tcp:124358:1" rendition="simple:additions"/>
+            <p>A COPY OF A LETTER <hi>VVritten to</hi> A Private Friend, To give him ſatisfaction in ſome things <hi>TOVCHING</hi> the Lord SAY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R.B.</hi> for <hi>I. O.</hi> and are to be ſold by <hi>I. S.</hi> 1643.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:124358:2"/>
+            <head>To the Reader.</head>
+            <p>REader, I having received a Letter from a friend, whom I doe give credit to, in anſwer to ſome things I propoſed to him to be ſatisfied in, by which I am abundantly ſatisfied, touching that Noble perſon who is the ſubject of the ſaid Letter; I thought my ſelfe bound for the information of others, to commend the ſame to publike view, not doubting but ſome who are prejudiced by the Reports that have flowne abroad, will be thereby ſet right in their judgements, which is all I deſire in publiſhing it.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:124358:2"/>
+            <head>A Copy of a Letter written to a private friend, to give him ſatisfaction in ſome things touching the LORD SAY.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>O ſatisfie you concerning my Lord <hi>Say,</hi> be<g ref="char:EOLhyphen"/>cauſe I perceive you to be ſo prudent, as not willingly to forfeit your diſcretion by running with the giddy multitude into thoſe diſtem<g ref="char:EOLhyphen"/>pers of heats and colds, but would receive in<g ref="char:EOLhyphen"/>formation from thoſe that know more then your ſelfe before you will judge. It becomes every wiſe man to be conſtant to the principles which he hath laid down to himſelfe upon the moſt mature deliberation: and this, as to things, ſo to perſons, otherwiſe I ſhould without prejudice to him, call both his Reaſon and Religion into queſtion. And therefore concerning that Lord give me leave to be confident (and I think you will beleeve me) that I know him much bet<g ref="char:EOLhyphen"/>ter then thoſe that talk ſo much againſt him, having had 28 yeares experience of him; in which time hee hath paſſed through very many various conditions, the times at ſometime courting him with their ſmiles, at other times falling foule upon him with their frownes; yet hath he beene the ſame in all: for if hopes or promiſes of promotion on the one hand, or threatning and impriſonment on the other, would have altered him from a Patriot to a Courtier, he had beene one long ago. To paſſe over his ſuffering impriſonment nine months together in the nineteenth or twentieth year of King <hi>Iames,</hi> for diſcountenancing a benevolence in the County of <hi>Oxford,</hi> when the Court began firſt to runne extravagant courſes to get money, that ſo they might rule in an arbitrary
+<pb n="2" facs="tcp:124358:3"/>way without Parliaments. And that in the following Parlia<g ref="char:EOLhyphen"/>ment in the one and twentieth yeare of King <hi>Iames,</hi> when the now King, then Prince, and the Duke of <hi>Buckingham</hi> were returned from <hi>Spaine,</hi> hee was as much courted with offers of preferment by him that had them at his diſpoſe as he was before diſcountenanced with impriſonment and o<g ref="char:EOLhyphen"/>ther preſſures which I could more fully declare unto you, but that I would not be tedious; And how it coſt him ſome hundreds of pounds in oppoſing the ſhip-money, and his re<g ref="char:EOLhyphen"/>fuſing that dangerous oath at <hi>Yorke;</hi> but I will not trouble you with too large a diſcourſe, onely this let me bee bold to ſay in the generall. That as he hath had a repute of being famous both for Religion, and Reaſon, I that have had the happineſs to live near unto him for many years have alwayes obſerved him in all the various changes he hath met withall, never to vary from his principles, but how ever things have gone abroad or at home, whether he hath had applauſe and encouragement from men on the one hand, or hard meaſure on the other (for he hath had experience of both) hee hath beene the ſame ſtill, walked as cloſely with God, and done his duty as faithfully towards men, it being alwayes a ſetled principle in him, <hi>That want of ſucceſſe from God, or finding un<g ref="char:EOLhyphen"/>thankefulneſſe from men muſt not hinder a pious man from doing his duty to both.</hi> And whereas you gave me a touch that many men, yea, honeſt and godly men, queſtion whe<g ref="char:EOLhyphen"/>ther he be right for Religion or no, beleeve me Sir, I ſpeake it from my heart, and in the uprightneſſe of my ſpirit, I doe not know a man in this Kingdome right and ſound for the power and truth of Religion if he be not. And I would have you beleeve me, that I know him well, as having had the ad<g ref="char:EOLhyphen"/>vantage of a long time of experience.</p>
+            <p>Againe, they charge upon him, that he favours Papiſts and Malignants, becauſe he protects two of their houſes; will they not allow him a houſe or two inſtead of three houſes of his,
+<pb n="3" facs="tcp:124358:3"/>and 2000 l <hi>per annum</hi> land, which is kept from him for doing them ſervice, and yet they doe not that, for he is to pay ſuch Rent for that houſe in the Countrey which is allowed him to refreſh himſelfe ſometimes with freſh ayre, as the Commit<g ref="char:EOLhyphen"/>tee for Sequeſtrations ſhall lay upon it.</p>
+            <p>Another inſtance by which they would prove he favours Papiſts is a report from one of the Captaines at <hi>Windſor,</hi> that he wrote a Letter to Colonell <hi>Venne</hi> on the behalfe of two Popiſh women, who had Popiſh Trinkets and ſome mo<g ref="char:EOLhyphen"/>ney taken from them there, that it might be reſtored unto them; now to ſhew you that this is moſt falſe, I will ſhew you upon what foundation this ſlander was built: one of thoſe wo<g ref="char:EOLhyphen"/>men came to his LP<hi rend="sup">s</hi> Secretary with a Petition expreſſing how their money and Truncks were taken from them by ſome of Colonell <hi>Vennes</hi> ſouldiers. as they were travelling into <hi>Wiltſhire,</hi> whither they had a Paſſe, and deſired him to procure my Lord <hi>Say</hi> to get their Petition read at the Committee for the ſafety of the Kingdom; but he knowing the multitudes of buſines his Lord had ſtil upon him, told her he would write himſelf to Col. <hi>Venn,</hi> having intimate acquaintance with him, to deſire him to examine the buſineſſe, and doe them right, which he did upon his own intereſt and acquaintenance onely, in his owne name, not thinking that either of them had been Papiſts till he received Colonell <hi>Vennes</hi> anſwer, which ſignified ſo much, and then he ſtirred no further for them.</p>
+            <p>And for the great ſumme of money, hundreds of thouſands pounds charged upon him, though it be ridiculous to think that any man could get ſuch vaſte ſums, &amp; convert to his own uſe without being diſcovered to many, yet I dare aſſure you, having heard it confidently affirmed by him that receiveth and iſſueth out all moneyes for him, that hee never con<g ref="char:EOLhyphen"/>verted a hundred pounds, or a hundred pence to his owne particular uſe, for it ſo paſſes through his hands, that hee could not be ignorant of this buſineſs, he receiving and diſbur<g ref="char:EOLhyphen"/>ſing
+<pb n="4" facs="tcp:124358:4"/>all that he hath had from the State, ſave onely what hath bin paid upon bils of Exchange to ſome <hi>Briſtow</hi> men, which he had orders for, and can give full ſatisfaction for upon ac<g ref="char:EOLhyphen"/>compt; and for what money hee received during the ſhort time he was Colonell, the account lyes upon his Secretary, and not upon my Lord, who medled not with a penny of that money: Nay, I will adde this further, that hee hath lent, be<g ref="char:EOLhyphen"/>ſides 1000. l. which he lent upon the propoſitions, ſometimes 200. l. ſometimes 300. l. ſomtimes more out of his own purſe, and hath borrowd ſomtimes to lend for the ſervice of the State. And for Sir <hi>William VVallers</hi> buſineſſe, me thinks they ſhould give a Peere of the Lords Houſe liberty to uſe his reaſon, what he did in that he did onely concurre with others in both Houſes, and by the ſame reaſon they charge it upon his Lord<g ref="char:EOLhyphen"/>ſhip, they charge it upon the Houſes; and if ſo, they appeale to themſelvs, and place the Judgement not in the Parliament (which they pretend too) but in the People; This let mee adde, that in my weak opinion, that Commiſſion (in which though power was derived to Sir <hi>William</hi> from his Excellen<g ref="char:EOLhyphen"/>cie, yet his Inſtructions were to iſſue from the Parliament, and at this rate how could his Excellencie command Sir <hi>William VValler,</hi> and how was his Commiſſion conſiſtent with this deſired Expedition: Beſides, two Generalls in one Expedi<g ref="char:EOLhyphen"/>tion ſpeake too much conſuſion. Another thing is, that this Lord was the occaſion of Mr. <hi>Nyes</hi> going into <hi>Scotland,</hi> and that he went purpoſely to hinder the <hi>Scots</hi> from comming in becauſe they would hinder the ſetting up of an independent Government in Churches; the falſity of that appeares (be<g ref="char:EOLhyphen"/>ſides what he hath ſaid to Gentlemen of truſt, of the neceſſity of the Scots comming in) by the effects, for the Scots doe come in, and both Mr <hi>Nye</hi> and that Lord have taken the Co<g ref="char:EOLhyphen"/>venant, and are forward inſtruments in furthering that work all they can: And as for Accommodations of peace which he is charged to be forward in; he was never further for it then
+<pb n="5" facs="tcp:124358:4"/>what Religion and Reaſon calls for at every mans hand, that is, if that could be obtained peaceably, which we labour for with ſo much effuſion of blood and hazzard of all, he rather deſires it, and ſo I hope do you and every honeſt man: Others ſay he hath made his peace at Court, but give no reaſon of this their beliefe, and I am confident can procure none by all their Arts; the wiſer of men know, that if the Court could have tempted him and violated his principles, hee need not have been ſo much wanting to himſelfe, as now to have his peace to be made up, he might have maintained it at an ea<g ref="char:EOLhyphen"/>ſier rate then now he could (if any ſuch thought could enter into him) regaine it.</p>
+            <p>But who can imagine that a prudent man ſhould run the hazzard of his honour, eſtate, and every thing, and this in pure oppoſition to the Court, and yet with deſign to comply with it: why ſhould the Court inveigh againſt him more then any man, charge him again and again with treaſon, and yet he a friend to them? When the Parliament affaires were at the loweſt, why did not he runne to Court as others have done? Why hath both his Excellency and this Lord ſuffered with ſo much patience the peoples calumnies from paſſions, ſurmizes, jealouſies, (or I know not what to call them) but onely their integrity to this cauſe hath ſupported their en<g ref="char:EOLhyphen"/>deavours (notwithſtanding) for the publike intereſt which they make their owne; and as it hath pleaſed God to take away the miſt from the peoples eyes touching my Lord Ge<g ref="char:EOLhyphen"/>nerall by his laſt expedition, ſo I doubt not but God in his good time will diſperſe the clouds as to that good Lord al<g ref="char:EOLhyphen"/>ſo, at leaſt to diſabuſe the honeſt party: This as to reaſon. But then in point of Religion, can any Chriſtian be ſo un<g ref="char:EOLhyphen"/>charitable as (upon a very ſurmiſe) to queſtion that founda<g ref="char:EOLhyphen"/>tion of piety which God hath laid in him, and <hi>de facto,</hi> main<g ref="char:EOLhyphen"/>tain that doctrine, which in his underſtanding <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s (fal<g ref="char:EOLhyphen"/>ling from grace) and ſo by practice contradict his own prin<g ref="char:EOLhyphen"/>ciples;
+<pb n="6" facs="tcp:124358:5"/>ſurely if moſt deliberately I have once judged a man in the condition of grace, I am not (but upon moſt weighty Reaſons) to call that happy caſe into queſtion; I would ſay to you and every honeſt heart, make this Lords caſe your own throughout the whole ſtory of it: I will not abuſe your patience longer, this let me beg of you and every good man that you would not ſo eaſily take upon truſt ſuch Reports, either of that Noble Lord, or any other Lord or Gentleman (intruſted by the State) as you meet with in every high way (and moſt likely given out at firſt by ſome Ieſuited Malig<g ref="char:EOLhyphen"/>nant out of deſign) leſt you become guilty of wounding the innocent in their good names and Honour, which is as great a ſinne as wounding their bodies, but I hope better things of you: and I could wiſh, that as to this Lord when you meet with any thing that makes you doubt either his Religion or Reaſon for any act he doth in order to the Commonwealth (where the queſtion now unhappily reſts with ſome) addreſſe your ſelfe to him, and if he doth not ſatisfie you or any rea<g ref="char:EOLhyphen"/>ſonable man, I will forfeit my reaſon, and queſtion whether there be an honeſt man to be found: Thus you may ſee my confidence (and I truſt not unreaſonable, conſidering my many yeeres uninterrupted experience.) I ſay no more, onely this I confeſſe, it is a wiſe mans part to be ſuſpitious in theſe evill times, but to be jealous without reaſonable grounds, becomes no prudent man. I have unbottomed my heart to you, that I might give you ſatisfaction, and doe profeſſe unto you, that there is no one aſſertory paſſage herein, but my conſcience beares me witneſſe I have ſpoke the truth in it. I reſt,</p>
+            <closer>
+               <signed>Your aſſured loving Friend,</signed>
+               <dateline>
+                  <date>
+                     <hi>Octob.</hi> 17. 1643.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
